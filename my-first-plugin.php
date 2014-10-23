@@ -22,4 +22,3 @@ includes
 include ('includes/scripts.php');
 include ('includes/display-functions.php');
 include ('includes/admin-page.php');
-include ('includes/mfp-widget1.php');
