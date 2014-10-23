@@ -1,0 +1,22 @@
+.twitter-message {
+	color: red;
+	border: 1px dashed #ccc;
+	padding: 5px;
+}
+
+.twitter-message.blue{
+	color: blue;
+	border: 1px dashed blue;
+	padding: 5px;
+}
+
+.twitter-message.red {
+	color: red;
+	border: 1px dashed red;
+}
+
+.twitter-message.green {
+	color: green;
+	border: 1px dashed green;
+	background: #ccc;
+}
